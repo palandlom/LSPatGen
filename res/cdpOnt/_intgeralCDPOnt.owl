@@ -1,0 +1,146 @@
+<?xml version="1.0"?>
+
+
+<!DOCTYPE rdf:RDF [
+    <!ENTITY owl "http://www.w3.org/2002/07/owl#" >
+    <!ENTITY xsd "http://www.w3.org/2001/XMLSchema#" >
+    <!ENTITY rdfs "http://www.w3.org/2000/01/rdf-schema#" >
+    <!ENTITY rdf "http://www.w3.org/1999/02/22-rdf-syntax-ns#" >
+]>
+
+
+<rdf:RDF xmlns="http://www.iimm.ru/lomov/ontologies/cdp-ontology#"
+     xml:base="http://www.iimm.ru/lomov/ontologies/cdp-ontology"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <owl:Ontology rdf:about="http://www.iimm.ru/lomov/ontologies/cdp-ontology">
+        <owl:imports rdf:resource="http://www.ontology.se/odp/content/owl/Action"/>
+        <owl:imports rdf:resource="http://www.ontology.se/odp/content/owl/ParticipantRole"/>
+        <owl:imports rdf:resource="http://www.ontologydesignpatterns.org/cp/owl/actingfor.owl"/>
+        <owl:imports rdf:resource="http://www.ontologydesignpatterns.org/cp/owl/agentrole.owl"/>
+        <owl:imports rdf:resource="http://www.ontologydesignpatterns.org/cp/owl/bag.owl"/>
+        <owl:imports rdf:resource="http://www.ontologydesignpatterns.org/cp/owl/classification.owl"/>
+        <owl:imports rdf:resource="http://www.ontologydesignpatterns.org/cp/owl/collectionentity.owl"/>
+        <owl:imports rdf:resource="http://www.ontologydesignpatterns.org/cp/owl/componency.owl"/>
+        <owl:imports rdf:resource="http://www.ontologydesignpatterns.org/cp/owl/coparticipation.owl"/>
+        <owl:imports rdf:resource="http://www.ontologydesignpatterns.org/cp/owl/description.owl"/>
+        <owl:imports rdf:resource="http://www.ontologydesignpatterns.org/cp/owl/descriptionandsituation.owl"/>
+        <owl:imports rdf:resource="http://www.ontologydesignpatterns.org/cp/owl/informationrealization.owl"/>
+        <owl:imports rdf:resource="http://www.ontologydesignpatterns.org/cp/owl/intensionextension.owl"/>
+        <owl:imports rdf:resource="http://www.ontologydesignpatterns.org/cp/owl/list.owl"/>
+        <owl:imports rdf:resource="http://www.ontologydesignpatterns.org/cp/owl/naryparticipation.owl"/>
+        <owl:imports rdf:resource="http://www.ontologydesignpatterns.org/cp/owl/objectrole.owl"/>
+        <owl:imports rdf:resource="http://www.ontologydesignpatterns.org/cp/owl/parameter.owl"/>
+        <owl:imports rdf:resource="http://www.ontologydesignpatterns.org/cp/owl/participation.owl"/>
+        <owl:imports rdf:resource="http://www.ontologydesignpatterns.org/cp/owl/partof.owl"/>
+        <owl:imports rdf:resource="http://www.ontologydesignpatterns.org/cp/owl/persons.owl"/>
+        <owl:imports rdf:resource="http://www.ontologydesignpatterns.org/cp/owl/region.owl"/>
+        <owl:imports rdf:resource="http://www.ontologydesignpatterns.org/cp/owl/sequence.owl"/>
+        <owl:imports rdf:resource="http://www.ontologydesignpatterns.org/cp/owl/set.owl"/>
+        <owl:imports rdf:resource="http://www.ontologydesignpatterns.org/cp/owl/situation.owl"/>
+        <owl:imports rdf:resource="http://www.ontologydesignpatterns.org/cp/owl/taskexecution.owl"/>
+        <owl:imports rdf:resource="http://www.ontologydesignpatterns.org/cp/owl/taskrole.owl"/>
+        <owl:imports rdf:resource="http://www.ontologydesignpatterns.org/cp/owl/timeindexedparticipation.owl"/>
+        <owl:imports rdf:resource="http://www.ontologydesignpatterns.org/cp/owl/timeindexedsituation.owl"/>
+        <owl:imports rdf:resource="http://www.ontologydesignpatterns.org/cp/owl/timeinterval.owl"/>
+        <owl:imports rdf:resource="http://www.ontologydesignpatterns.org/cp/owl/topic.owl"/>
+        <owl:imports rdf:resource="http://www.ontologydesignpatterns.org/cp/owl/typesofentities.owl"/>
+        <owl:imports rdf:resource="http://www.ontologydesignpatterns.org/schemas/cpannotationschema.owl"/>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.ontology.se/odp/content/owl/Action#Action -->
+
+    <rdf:Description rdf:about="http://www.ontology.se/odp/content/owl/Action#Action">
+        <owl:equivalentClass rdf:resource="http://www.ontologydesignpatterns.org/cp/owl/taskexecution.owl#Action"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://www.ontologydesignpatterns.org/cp/owl/actingfor.owl#Agent -->
+
+    <rdf:Description rdf:about="http://www.ontologydesignpatterns.org/cp/owl/actingfor.owl#Agent">
+        <owl:equivalentClass rdf:resource="http://www.ontologydesignpatterns.org/cp/owl/agentrole.owl#Agent"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://www.ontologydesignpatterns.org/cp/owl/agentrole.owl#Agent -->
+
+    <rdf:Description rdf:about="http://www.ontologydesignpatterns.org/cp/owl/agentrole.owl#Agent"/>
+    
+
+
+    <!-- http://www.ontologydesignpatterns.org/cp/owl/componency.owl#Object -->
+
+    <rdf:Description rdf:about="http://www.ontologydesignpatterns.org/cp/owl/componency.owl#Object">
+        <owl:equivalentClass rdf:resource="http://www.ontologydesignpatterns.org/cp/owl/objectrole.owl#Object"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://www.ontologydesignpatterns.org/cp/owl/description.owl#Concept -->
+
+    <rdf:Description rdf:about="http://www.ontologydesignpatterns.org/cp/owl/description.owl#Concept">
+        <owl:equivalentClass rdf:resource="http://www.ontologydesignpatterns.org/cp/owl/parameter.owl#Concept"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://www.ontologydesignpatterns.org/cp/owl/objectrole.owl#Object -->
+
+    <rdf:Description rdf:about="http://www.ontologydesignpatterns.org/cp/owl/objectrole.owl#Object"/>
+    
+
+
+    <!-- http://www.ontologydesignpatterns.org/cp/owl/parameter.owl#Concept -->
+
+    <rdf:Description rdf:about="http://www.ontologydesignpatterns.org/cp/owl/parameter.owl#Concept">
+        <owl:equivalentClass rdf:resource="http://www.ontologydesignpatterns.org/cp/owl/topic.owl#Concept"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://www.ontologydesignpatterns.org/cp/owl/participation.owl#Event -->
+
+    <rdf:Description rdf:about="http://www.ontologydesignpatterns.org/cp/owl/participation.owl#Event">
+        <owl:equivalentClass rdf:resource="http://www.ontologydesignpatterns.org/cp/owl/typesofentities.owl#Event"/>
+    </rdf:Description>
+    
+
+
+    <!-- http://www.ontologydesignpatterns.org/cp/owl/taskexecution.owl#Action -->
+
+    <rdf:Description rdf:about="http://www.ontologydesignpatterns.org/cp/owl/taskexecution.owl#Action"/>
+    
+
+
+    <!-- http://www.ontologydesignpatterns.org/cp/owl/topic.owl#Concept -->
+
+    <rdf:Description rdf:about="http://www.ontologydesignpatterns.org/cp/owl/topic.owl#Concept"/>
+    
+
+
+    <!-- http://www.ontologydesignpatterns.org/cp/owl/typesofentities.owl#Event -->
+
+    <rdf:Description rdf:about="http://www.ontologydesignpatterns.org/cp/owl/typesofentities.owl#Event"/>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 3.4.2) http://owlapi.sourceforge.net -->
+

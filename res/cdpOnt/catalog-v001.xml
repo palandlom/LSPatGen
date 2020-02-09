@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <uri id="User Entered Import Resolution" name="http://www.ontologydesignpatterns.org/cp/owl/bag.owl" uri="bag.owl"/>
+    <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
+        <uri id="Automatically generated entry, Timestamp=1458910289761" name="duplicate:http://www.iimm.ru/lomov/ontologies/cdp-ontology" uri="CDPOntology.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1458910289761" name="duplicate:http://www.iimm.ru/lomov/ontologies/cdp-ontology" uri="_intgeralCDPOnt.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1458910289761" name="http://www.ontology.se/odp/content/owl/Action" uri="Action.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1458910289761" name="http://www.ontology.se/odp/content/owl/ParticipantRole" uri="ParticipantRole.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1458910289761" name="http://www.ontologydesignpatterns.org/cp/examples/coparticpation/ISWCco-participation.owl" uri="ISWCco-participation.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1458910289761" name="http://www.ontologydesignpatterns.org/cp/owl/actingfor.owl" uri="actingfor.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1458910289761" name="http://www.ontologydesignpatterns.org/cp/owl/agentrole.owl" uri="agentrole.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1458910289761" name="http://www.ontologydesignpatterns.org/cp/owl/bag.owl" uri="bag.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1458910289761" name="http://www.ontologydesignpatterns.org/cp/owl/classification.owl" uri="classification.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1458910289761" name="http://www.ontologydesignpatterns.org/cp/owl/collectionentity.owl" uri="collectionentity.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1458910289761" name="http://www.ontologydesignpatterns.org/cp/owl/componency.owl" uri="componency.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1458910289761" name="http://www.ontologydesignpatterns.org/cp/owl/coparticipation.owl" uri="coparticipation.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1458910289761" name="http://www.ontologydesignpatterns.org/cp/owl/description.owl" uri="description.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1458910289761" name="http://www.ontologydesignpatterns.org/cp/owl/descriptionandsituation.owl" uri="descriptionandsituation.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1458910289761" name="http://www.ontologydesignpatterns.org/cp/owl/informationrealization.owl" uri="informationrealization.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1458910289761" name="http://www.ontologydesignpatterns.org/cp/owl/intensionextension.owl" uri="intensionextension.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1458910289761" name="http://www.ontologydesignpatterns.org/cp/owl/list.owl" uri="list.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1458910289761" name="http://www.ontologydesignpatterns.org/cp/owl/naryparticipation.owl" uri="naryparticipation.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1458910289761" name="http://www.ontologydesignpatterns.org/cp/owl/objectrole.owl" uri="objectrole.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1458910289761" name="http://www.ontologydesignpatterns.org/cp/owl/parameter.owl" uri="parameter.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1458910289761" name="http://www.ontologydesignpatterns.org/cp/owl/participation.owl" uri="participation.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1458910289761" name="http://www.ontologydesignpatterns.org/cp/owl/partof.owl" uri="partof.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1458910289761" name="http://www.ontologydesignpatterns.org/cp/owl/persons.owl" uri="persons.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1458910289761" name="http://www.ontologydesignpatterns.org/cp/owl/region.owl" uri="region.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1458910289761" name="http://www.ontologydesignpatterns.org/cp/owl/sequence.owl" uri="sequence.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1458910289761" name="http://www.ontologydesignpatterns.org/cp/owl/set.owl" uri="set.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1458910289761" name="http://www.ontologydesignpatterns.org/cp/owl/situation.owl" uri="situation.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1458910289761" name="http://www.ontologydesignpatterns.org/cp/owl/taskexecution.owl" uri="taskexecution.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1458910289761" name="http://www.ontologydesignpatterns.org/cp/owl/taskrole.owl" uri="taskrole.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1458910289761" name="http://www.ontologydesignpatterns.org/cp/owl/timeindexedparticipation.owl" uri="timeindexedparticipation.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1458910289761" name="http://www.ontologydesignpatterns.org/cp/owl/timeindexedsituation.owl" uri="timeindexedsituation.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1458910289761" name="http://www.ontologydesignpatterns.org/cp/owl/timeinterval.owl" uri="timeinterval.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1458910289761" name="http://www.ontologydesignpatterns.org/cp/owl/topic.owl" uri="topic.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1458910289761" name="http://www.ontologydesignpatterns.org/cp/owl/typesofentities.owl" uri="typesofentities.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1458910289761" name="http://www.ontologydesignpatterns.org/schemas/cpannotationschema.owl" uri="cpannotationschema.owl"/>
+    </group>
+</catalog>

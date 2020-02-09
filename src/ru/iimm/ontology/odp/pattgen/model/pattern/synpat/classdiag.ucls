@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.8" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true">  
+  <class id="1" language="java" name="ru.iimm.ontology.odp.pattgen.model.pattern.synpat.AbstractSyntCDP" 
+    project="PattGen.app" file="/PattGen.app/src/ru/iimm/ontology/odp/pattgen/model/pattern/synpat/AbstractSyntCDP.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="380" y="32"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="ru.iimm.ontology.odp.pattgen.model.pattern.synpat.SyntSitbasedCDP" 
+    project="PattGen.app" file="/PattGen.app/src/ru/iimm/ontology/odp/pattgen/model/pattern/synpat/SyntSitbasedCDP.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="354" width="380" x="-342" y="301"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="ru.iimm.ontology.odp.pattgen.model.pattern.synpat.EnumeratedCDP" 
+    project="PattGen.app" file="/PattGen.app/src/ru/iimm/ontology/odp/pattgen/model/pattern/synpat/EnumeratedCDP.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="319" y="553"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="ru.iimm.ontology.odp.pattgen.model.pattern.synpat.CollectionCDP" 
+    project="PattGen.app" file="/PattGen.app/src/ru/iimm/ontology/odp/pattgen/model/pattern/synpat/CollectionCDP.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="-299" y="1070"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="ru.iimm.ontology.odp.pattgen.model.pattern.synpat.PositionCDP" 
+    project="PattGen.app" file="/PattGen.app/src/ru/iimm/ontology/odp/pattgen/model/pattern/synpat/PositionCDP.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="781" y="625"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="ru.iimm.ontology.odp.pattgen.model.pattern.synpat.ObjectRoleCDP" 
+    project="PattGen.app" file="/PattGen.app/src/ru/iimm/ontology/odp/pattgen/model/pattern/synpat/ObjectRoleCDP.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1132" y="932"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="false"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="ru.iimm.ontology.odp.pattgen.model.pattern.synpat.SinglePropertyCDP" 
+    project="PattGen.app" 
+    file="/PattGen.app/src/ru/iimm/ontology/odp/pattgen/model/pattern/synpat/SinglePropertyCDP.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1021" y="1225"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="false"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="ru.iimm.ontology.odp.pattgen.model.pattern.synpat.PartOfCDP" project="PattGen.app" 
+    file="/PattGen.app/src/ru/iimm/ontology/odp/pattgen/model/pattern/synpat/PartOfCDP.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="892" y="1590"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="false"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="ru.iimm.ontology.odp.pattgen.model.pattern.synpat.SequenceCDP" 
+    project="PattGen.app" file="/PattGen.app/src/ru/iimm/ontology/odp/pattgen/model/pattern/synpat/SequenceCDP.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1165" y="1590"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="false"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="ru.iimm.ontology.odp.pattgen.model.pattern.synpat.SimpleCollectionCDP" 
+    project="PattGen.app" 
+    file="/PattGen.app/src/ru/iimm/ontology/odp/pattgen/model/pattern/synpat/SimpleCollectionCDP.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="-132" y="767"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="false"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="ru.iimm.ontology.odp.pattgen.model.pattern.synpat.SetCDP" project="PattGen.app" 
+    file="/PattGen.app/src/ru/iimm/ontology/odp/pattgen/model/pattern/synpat/SetCDP.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="-33" y="1012"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="false"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="ru.iimm.ontology.odp.pattgen.model.pattern.synpat.ListCDP" project="PattGen.app" 
+    file="/PattGen.app/src/ru/iimm/ontology/odp/pattgen/model/pattern/synpat/ListCDP.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="223" width="239" x="137" y="933"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="false"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="ru.iimm.ontology.odp.pattgen.model.pattern.synpat.BagCDP" project="PattGen.app" 
+    file="/PattGen.app/src/ru/iimm/ontology/odp/pattgen/model/pattern/synpat/BagCDP.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="153" width="223" x="392" y="958"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="false"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="ru.iimm.ontology.odp.pattgen.model.pattern.synpat.ItemedCollectionCDP" 
+    project="PattGen.app" 
+    file="/PattGen.app/src/ru/iimm/ontology/odp/pattgen/model/pattern/synpat/ItemedCollectionCDP.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="118" width="223" x="254" y="750"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="false"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="ru.iimm.ontology.odp.pattgen.model.pattern.synpat.SinglePositionCDP" 
+    project="PattGen.app" 
+    file="/PattGen.app/src/ru/iimm/ontology/odp/pattgen/model/pattern/synpat/SinglePositionCDP.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="781" y="1154"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="false"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="ru.iimm.ontology.odp.pattgen.model.pattern.synpat.ComponencyCDP" 
+    project="PattGen.app" file="/PattGen.app/src/ru/iimm/ontology/odp/pattgen/model/pattern/synpat/ComponencyCDP.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="626" y="1546"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="false"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="ru.iimm.ontology.odp.pattgen.model.pattern.synpat.CoparticipationCDP" 
+    project="PattGen.app" 
+    file="/PattGen.app/src/ru/iimm/ontology/odp/pattgen/model/pattern/synpat/CoparticipationCDP.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="500" y="1282"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="false"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <generalization id="18">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="7"/>  
+  </generalization>  
+  <generalization id="19">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="10"/>  
+  </generalization>  
+  <generalization id="20">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="3"/>  
+  </generalization>  
+  <generalization id="21">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <generalization id="22">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="7"/>  
+  </generalization>  
+  <generalization id="23">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="10"/>  
+  </generalization>  
+  <generalization id="24">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <generalization id="25">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <generalization id="26">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="3"/>  
+  </generalization>  
+  <generalization id="27">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="14"/>  
+  </generalization>  
+  <generalization id="28">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <generalization id="29">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <generalization id="30">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <generalization id="31">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <generalization id="32">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="7"/>  
+  </generalization>  
+  <generalization id="33">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="14"/>  
+  </generalization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="false"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

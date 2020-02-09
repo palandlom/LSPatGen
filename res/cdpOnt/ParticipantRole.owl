@@ -1,0 +1,158 @@
+<?xml version="1.0"?>
+
+
+<!DOCTYPE rdf:RDF [
+    <!ENTITY owl "http://www.w3.org/2002/07/owl#" >
+    <!ENTITY xsd "http://www.w3.org/2001/XMLSchema#" >
+    <!ENTITY rdfs "http://www.w3.org/2000/01/rdf-schema#" >
+    <!ENTITY rdf "http://www.w3.org/1999/02/22-rdf-syntax-ns#" >
+    <!ENTITY situation "http://www.ontologydesignpatterns.org/cp/owl/situation.owl#" >
+    <!ENTITY participation "http://www.ontologydesignpatterns.org/cp/owl/participation.owl#" >
+    <!ENTITY cpschema "http://www.ontologydesignpatterns.org/schemas/cpannotationschema.owl#" >
+]>
+
+
+<rdf:RDF xmlns="http://www.ontology.se/odp/content/owl/ParticipantRole#"
+     xml:base="http://www.ontology.se/odp/content/owl/ParticipantRole"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:participation="http://www.ontologydesignpatterns.org/cp/owl/participation.owl#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:cpschema="http://www.ontologydesignpatterns.org/schemas/cpannotationschema.owl#"
+     xmlns:situation="http://www.ontologydesignpatterns.org/cp/owl/situation.owl#">
+    <owl:Ontology rdf:about="http://www.ontology.se/odp/content/owl/ParticipantRole">
+        <owl:versionInfo rdf:datatype="&xsd;string">Created with TopBraid Composer</owl:versionInfo>
+        <cpschema:coversRequirements rdf:datatype="&xsd;string">In what event did this object hold this role?</cpschema:coversRequirements>
+        <cpschema:scenarios rdf:datatype="&xsd;string">John was elected the meeting secretary of today&apos;s board meeting. During the party we used the blue cup as a vase. </cpschema:scenarios>
+        <cpschema:hasConsequences rdf:datatype="&xsd;string">This pattern does not take into account time aspects of the participation, for such aspects see the timeindexedparticipation-pattern.</cpschema:hasConsequences>
+        <cpschema:hasIntent rdf:datatype="&xsd;string">To represent participants in events holding specific roles in that particular event.</cpschema:hasIntent>
+        <cpschema:coversRequirements rdf:datatype="&xsd;string">What is the object holding this role in this event?</cpschema:coversRequirements>
+        <cpschema:coversRequirements rdf:datatype="&xsd;string">What is the role of this object in this event?</cpschema:coversRequirements>
+        <cpschema:hasComponent rdf:datatype="&xsd;string">http://www.ontologydesignpatterns.org/cp/owl/participation.owl</cpschema:hasComponent>
+        <cpschema:isSpecializationOf rdf:datatype="&xsd;string">http://www.ontologydesignpatterns.org/cp/owl/participation.owl</cpschema:isSpecializationOf>
+        <cpschema:hasComponent rdf:datatype="&xsd;string">http://www.ontologydesignpatterns.org/cp/owl/situation.owl</cpschema:hasComponent>
+        <cpschema:relatedCPs rdf:datatype="&xsd;string">http://www.ontologydesignpatterns.org/cp/owl/timeindexedparticipation.owl</cpschema:relatedCPs>
+        <owl:imports rdf:resource="http://www.ontologydesignpatterns.org/cp/owl/participation.owl"/>
+        <owl:imports rdf:resource="http://www.ontologydesignpatterns.org/cp/owl/situation.owl"/>
+        <owl:imports rdf:resource="http://www.ontologydesignpatterns.org/schemas/cpannotationschema.owl"/>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.ontology.se/odp/content/owl/ParticipantRole#eventIncludedIn -->
+
+    <owl:ObjectProperty rdf:about="http://www.ontology.se/odp/content/owl/ParticipantRole#eventIncludedIn">
+        <rdfs:label rdf:datatype="&xsd;string">Event included in</rdfs:label>
+        <rdfs:range rdf:resource="http://www.ontology.se/odp/content/owl/ParticipantRole#ParticipantRole"/>
+        <owl:inverseOf rdf:resource="http://www.ontology.se/odp/content/owl/ParticipantRole#participatingInEvent"/>
+        <rdfs:subPropertyOf rdf:resource="&situation;hasSetting"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.ontology.se/odp/content/owl/ParticipantRole#objectIncludedIn -->
+
+    <owl:ObjectProperty rdf:about="http://www.ontology.se/odp/content/owl/ParticipantRole#objectIncludedIn">
+        <rdfs:label rdf:datatype="&xsd;string">Object included in</rdfs:label>
+        <rdfs:range rdf:resource="http://www.ontology.se/odp/content/owl/ParticipantRole#ParticipantRole"/>
+        <owl:inverseOf rdf:resource="http://www.ontology.se/odp/content/owl/ParticipantRole#objectParticipating"/>
+        <rdfs:subPropertyOf rdf:resource="&situation;hasSetting"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.ontology.se/odp/content/owl/ParticipantRole#objectParticipating -->
+
+    <owl:ObjectProperty rdf:about="http://www.ontology.se/odp/content/owl/ParticipantRole#objectParticipating">
+        <rdfs:label rdf:datatype="&xsd;string">Object participating</rdfs:label>
+        <rdfs:domain rdf:resource="http://www.ontology.se/odp/content/owl/ParticipantRole#ParticipantRole"/>
+        <rdfs:subPropertyOf rdf:resource="&situation;isSettingFor"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.ontology.se/odp/content/owl/ParticipantRole#participatingInEvent -->
+
+    <owl:ObjectProperty rdf:about="http://www.ontology.se/odp/content/owl/ParticipantRole#participatingInEvent">
+        <rdfs:label rdf:datatype="&xsd;string">Participating in event</rdfs:label>
+        <rdfs:domain rdf:resource="http://www.ontology.se/odp/content/owl/ParticipantRole#ParticipantRole"/>
+        <rdfs:subPropertyOf rdf:resource="&situation;isSettingFor"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.ontology.se/odp/content/owl/ParticipantRole#roleIncludedIn -->
+
+    <owl:ObjectProperty rdf:about="http://www.ontology.se/odp/content/owl/ParticipantRole#roleIncludedIn">
+        <rdfs:label rdf:datatype="&xsd;string">Role included in</rdfs:label>
+        <rdfs:range rdf:resource="http://www.ontology.se/odp/content/owl/ParticipantRole#ParticipantRole"/>
+        <owl:inverseOf rdf:resource="http://www.ontology.se/odp/content/owl/ParticipantRole#roleOfParticipant"/>
+        <rdfs:subPropertyOf rdf:resource="&situation;hasSetting"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.ontology.se/odp/content/owl/ParticipantRole#roleOfParticipant -->
+
+    <owl:ObjectProperty rdf:about="http://www.ontology.se/odp/content/owl/ParticipantRole#roleOfParticipant">
+        <rdfs:label rdf:datatype="&xsd;string">Role of participant</rdfs:label>
+        <rdfs:domain rdf:resource="http://www.ontology.se/odp/content/owl/ParticipantRole#ParticipantRole"/>
+        <rdfs:subPropertyOf rdf:resource="&situation;isSettingFor"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.ontology.se/odp/content/owl/ParticipantRole#ParticipantRole -->
+
+    <owl:Class rdf:about="http://www.ontology.se/odp/content/owl/ParticipantRole#ParticipantRole">
+        <rdfs:label rdf:datatype="&xsd;string">Participant role</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&situation;Situation"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.ontology.se/odp/content/owl/ParticipantRole#roleOfParticipant"/>
+                <owl:minCardinality rdf:datatype="&xsd;nonNegativeInteger">1</owl:minCardinality>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.ontology.se/odp/content/owl/ParticipantRole#participatingInEvent"/>
+                <owl:minCardinality rdf:datatype="&xsd;nonNegativeInteger">1</owl:minCardinality>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.ontology.se/odp/content/owl/ParticipantRole#objectParticipating"/>
+                <owl:minCardinality rdf:datatype="&xsd;nonNegativeInteger">1</owl:minCardinality>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:comment rdf:datatype="&xsd;string">A situation that represents the role(s) of a specific object (or objects) participating in and event (or events).</rdfs:comment>
+    </owl:Class>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 3.4.2) http://owlapi.sourceforge.net -->
+
