@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
+        <uri id="Automatically generated entry, Timestamp=1522612949655" name="http://www.iimm.ru/ontologies/cdp/information-content-entity" uri="information-content-entity.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1522612949655" name="http://www.iimm.ru/ontologies/cdp/investigation" uri="investigation.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1522612949655" name="http://www.iimm.ru/ontologies/cdp/investigation-objectives" uri="investigation-objectives.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1522612949655" name="http://www.iimm.ru/ontologies/cdp/investigation-process" uri="investigation-process.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1522612949655" name="http://www.iimm.ru/ontologies/cdp/investigation-specification" uri="investigation-specification.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1522612949655" name="http://www.iimm.ru/ontologies/cdp/investigation/publication" uri="publication.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1522612949655" name="http://www.iimm.ru/ontologies/cdp/study-design" uri="study-design.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1522612949655" name="http://www.iimm.ru/ontologies/oiks" uri="oiks.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1522612949655" name="http://www.iimm.ru/ontologies/oiks/poltes" uri="poltes.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1522612949655" name="http://www.ontologydesignpatterns.org/cp/owl/classification.owl" uri="classification.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1522612949655" name="http://www.ontologydesignpatterns.org/cp/owl/description.owl" uri="description.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1522612949655" name="http://www.ontologydesignpatterns.org/cp/owl/descriptionandsituation.owl" uri="descriptionandsituation.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1522612949655" name="http://www.ontologydesignpatterns.org/cp/owl/situation.owl" uri="situation.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1522612949655" name="http://www.ontologydesignpatterns.org/schemas/cpannotationschema.owl" uri="cpannotationschema.owl"/>
+    </group>
+</catalog>

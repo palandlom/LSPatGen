@@ -1,0 +1,2070 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<texts>
+	<text>
+		<goal name="Space">
+			<match startPos="1" endPos="1">
+				<fragment></fragment>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="1" endPos="10">
+				<fragment>Глоссарий</fragment>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="13" endPos="12">
+				<fragment></fragment>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="13" endPos="20">
+				<fragment>словарь</fragment>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="13" endPos="43">
+				<fragment>словарь узкоспециализированных</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="13" endPos="52">
+				<fragment>словарь узкоспециализированных терминов</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="21" endPos="20">
+				<fragment></fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="21" endPos="43">
+				<fragment>узкоспециализированных</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="21" endPos="52">
+				<fragment>узкоспециализированных терминов</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="44" endPos="43">
+				<fragment></fragment>
+				<result></result>
+			</match>
+			<match startPos="44" endPos="52">
+				<fragment>терминов</fragment>
+				<result></result>
+			</match>
+			<match startPos="54" endPos="54">
+				<fragment></fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="54" endPos="59">
+				<fragment>глосс</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="61" endPos="60">
+				<fragment></fragment>
+				<result></result>
+			</match>
+			<match startPos="61" endPos="62">
+				<fragment>в</fragment>
+				<result></result>
+			</match>
+			<match startPos="61" endPos="73">
+				<fragment>в какой-либо</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="61" endPos="81">
+				<fragment>в какой-либо отрасли</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="61" endPos="88">
+				<fragment>в какой-либо отрасли знаний</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="63" endPos="62">
+				<fragment></fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="63" endPos="73">
+				<fragment>какой-либо</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="63" endPos="81">
+				<fragment>какой-либо отрасли</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="63" endPos="88">
+				<fragment>какой-либо отрасли знаний</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="63" endPos="90">
+				<fragment>какой-либо отрасли знаний с</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="74" endPos="73">
+				<fragment></fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="74" endPos="81">
+				<fragment>отрасли</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="74" endPos="88">
+				<fragment>отрасли знаний</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="74" endPos="90">
+				<fragment>отрасли знаний с</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="74" endPos="102">
+				<fragment>отрасли знаний с толкованием</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="82" endPos="81">
+				<fragment></fragment>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="82" endPos="88">
+				<fragment>знаний</fragment>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="82" endPos="90">
+				<fragment>знаний с</fragment>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="82" endPos="102">
+				<fragment>знаний с толкованием</fragment>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="89" endPos="88">
+				<fragment></fragment>
+				<result></result>
+			</match>
+			<match startPos="89" endPos="90">
+				<fragment>с</fragment>
+				<result></result>
+			</match>
+			<match startPos="89" endPos="102">
+				<fragment>с толкованием</fragment>
+				<result></result>
+			</match>
+			<match startPos="91" endPos="90">
+				<fragment></fragment>
+				<result></result>
+			</match>
+			<match startPos="91" endPos="102">
+				<fragment>толкованием</fragment>
+				<result></result>
+			</match>
+			<match startPos="104" endPos="103">
+				<fragment></fragment>
+				<result></result>
+			</match>
+			<match startPos="104" endPos="110">
+				<fragment>иногда</fragment>
+				<result></result>
+			</match>
+			<match startPos="104" endPos="120">
+				<fragment>иногда переводом</fragment>
+				<result></result>
+			</match>
+			<match startPos="104" endPos="123">
+				<fragment>иногда переводом на</fragment>
+				<result></result>
+			</match>
+			<match startPos="104" endPos="130">
+				<fragment>иногда переводом на другой</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="111" endPos="110">
+				<fragment></fragment>
+				<result></result>
+			</match>
+			<match startPos="111" endPos="120">
+				<fragment>переводом</fragment>
+				<result></result>
+			</match>
+			<match startPos="111" endPos="123">
+				<fragment>переводом на</fragment>
+				<result></result>
+			</match>
+			<match startPos="111" endPos="130">
+				<fragment>переводом на другой</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="111" endPos="135">
+				<fragment>переводом на другой язык</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="121" endPos="120">
+				<fragment></fragment>
+				<result></result>
+			</match>
+			<match startPos="121" endPos="123">
+				<fragment>на</fragment>
+				<result></result>
+			</match>
+			<match startPos="121" endPos="130">
+				<fragment>на другой</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="121" endPos="135">
+				<fragment>на другой язык</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="124" endPos="123">
+				<fragment></fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="124" endPos="130">
+				<fragment>другой</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="124" endPos="135">
+				<fragment>другой язык</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="131" endPos="130">
+				<fragment></fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="131" endPos="135">
+				<fragment>язык</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="137" endPos="136">
+				<fragment></fragment>
+				<result></result>
+			</match>
+			<match startPos="137" endPos="150">
+				<fragment>комментариями</fragment>
+				<result></result>
+			</match>
+			<match startPos="137" endPos="152">
+				<fragment>комментариями и</fragment>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="137" endPos="162">
+				<fragment>комментариями и примерами</fragment>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="151" endPos="150">
+				<fragment></fragment>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="151" endPos="152">
+				<fragment>и</fragment>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="151" endPos="162">
+				<fragment>и примерами</fragment>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="153" endPos="152">
+				<fragment></fragment>
+				<result></result>
+			</match>
+			<match startPos="153" endPos="162">
+				<fragment>примерами</fragment>
+				<result></result>
+			</match>
+			<match startPos="164" endPos="163">
+				<fragment></fragment>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="164" endPos="167">
+				<fragment>Под</fragment>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="164" endPos="177">
+				<fragment>Под графемной</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="164" endPos="190">
+				<fragment>Под графемной конструкцией</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="164" endPos="201">
+				<fragment>Под графемной конструкцией понимается</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="168" endPos="167">
+				<fragment></fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="168" endPos="177">
+				<fragment>графемной</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="168" endPos="190">
+				<fragment>графемной конструкцией</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="168" endPos="201">
+				<fragment>графемной конструкцией понимается</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="168" endPos="213">
+				<fragment>графемной конструкцией понимается графическая</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="178" endPos="177">
+				<fragment></fragment>
+				<result></result>
+			</match>
+			<match startPos="178" endPos="190">
+				<fragment>конструкцией</fragment>
+				<result></result>
+			</match>
+			<match startPos="178" endPos="201">
+				<fragment>конструкцией понимается</fragment>
+				<result></result>
+			</match>
+			<match startPos="178" endPos="213">
+				<fragment>конструкцией понимается графическая</fragment>
+				<result></result>
+			</match>
+			<match startPos="178" endPos="219">
+				<fragment>конструкцией понимается графическая форма</fragment>
+				<result></result>
+			</match>
+			<match startPos="191" endPos="190">
+				<fragment></fragment>
+				<result></result>
+			</match>
+			<match startPos="191" endPos="201">
+				<fragment>понимается</fragment>
+				<result></result>
+			</match>
+			<match startPos="191" endPos="213">
+				<fragment>понимается графическая</fragment>
+				<result></result>
+			</match>
+			<match startPos="191" endPos="219">
+				<fragment>понимается графическая форма</fragment>
+				<result></result>
+			</match>
+			<match startPos="202" endPos="201">
+				<fragment></fragment>
+				<result></result>
+			</match>
+			<match startPos="202" endPos="213">
+				<fragment>графическая</fragment>
+				<result></result>
+			</match>
+			<match startPos="202" endPos="219">
+				<fragment>графическая форма</fragment>
+				<result></result>
+			</match>
+			<match startPos="214" endPos="213">
+				<fragment></fragment>
+				<result></result>
+			</match>
+			<match startPos="214" endPos="219">
+				<fragment>форма</fragment>
+				<result></result>
+			</match>
+			<match startPos="221" endPos="220">
+				<fragment></fragment>
+				<result></result>
+			</match>
+			<match startPos="221" endPos="232">
+				<fragment>построенная</fragment>
+				<result></result>
+			</match>
+			<match startPos="221" endPos="235">
+				<fragment>построенная из</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="221" endPos="244">
+				<fragment>построенная из	базисных</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="233" endPos="232">
+				<fragment></fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="233" endPos="235">
+				<fragment>из</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="233" endPos="244">
+				<fragment>из	базисных</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="236" endPos="235">
+				<fragment></fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="236" endPos="244">
+				<fragment>базисных</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="246" endPos="245">
+				<fragment></fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="246" endPos="271">
+				<fragment>проблемно-ориентированных</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="246" endPos="277">
+				<fragment>проблемно-ориентированных и/или</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="246" endPos="289">
+				<fragment>проблемно-ориентированных и/или графических</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="246" endPos="301">
+				<fragment>проблемно-ориентированных и/или графических конструкций</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="272" endPos="271">
+				<fragment></fragment>
+				<result></result>
+			</match>
+			<match startPos="272" endPos="277">
+				<fragment>и/или</fragment>
+				<result></result>
+			</match>
+			<match startPos="272" endPos="289">
+				<fragment>и/или графических</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="272" endPos="301">
+				<fragment>и/или графических конструкций</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="278" endPos="277">
+				<fragment></fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="278" endPos="289">
+				<fragment>графических</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="278" endPos="301">
+				<fragment>графических конструкций</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="290" endPos="289">
+				<fragment></fragment>
+				<result></result>
+			</match>
+			<match startPos="290" endPos="301">
+				<fragment>конструкций</fragment>
+				<result></result>
+			</match>
+			<match startPos="303" endPos="302">
+				<fragment></fragment>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="303" endPos="309">
+				<fragment>Ресурс</fragment>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="311" endPos="310">
+				<fragment></fragment>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="311" endPos="314">
+				<fragment>для</fragment>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="311" endPos="323">
+				<fragment>для которого</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="311" endPos="333">
+				<fragment>для которого требуется</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="311" endPos="345">
+				<fragment>для которого требуется организация</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="315" endPos="314">
+				<fragment></fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="315" endPos="323">
+				<fragment>которого</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="315" endPos="333">
+				<fragment>которого требуется</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="315" endPos="345">
+				<fragment>которого требуется организация</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="315" endPos="359">
+				<fragment>которого требуется организация разграничения</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="324" endPos="323">
+				<fragment></fragment>
+				<result></result>
+			</match>
+			<match startPos="324" endPos="333">
+				<fragment>требуется</fragment>
+				<result></result>
+			</match>
+			<match startPos="324" endPos="345">
+				<fragment>требуется организация</fragment>
+				<result></result>
+			</match>
+			<match startPos="324" endPos="359">
+				<fragment>требуется организация разграничения</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="324" endPos="367">
+				<fragment>требуется организация разграничения доступа</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="334" endPos="333">
+				<fragment></fragment>
+				<result></result>
+			</match>
+			<match startPos="334" endPos="345">
+				<fragment>организация</fragment>
+				<result></result>
+			</match>
+			<match startPos="334" endPos="359">
+				<fragment>организация разграничения</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="334" endPos="367">
+				<fragment>организация разграничения доступа</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="346" endPos="345">
+				<fragment></fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="346" endPos="359">
+				<fragment>разграничения</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="346" endPos="367">
+				<fragment>разграничения доступа</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="360" endPos="359">
+				<fragment></fragment>
+				<result></result>
+			</match>
+			<match startPos="360" endPos="367">
+				<fragment>доступа</fragment>
+				<result></result>
+			</match>
+			<match startPos="369" endPos="368">
+				<fragment></fragment>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="369" endPos="374">
+				<fragment>будем</fragment>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="369" endPos="383">
+				<fragment>будем называть</fragment>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="369" endPos="394">
+				<fragment>будем называть защищаемым</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="369" endPos="403">
+				<fragment>будем называть защищаемым ресурсом</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="375" endPos="374">
+				<fragment></fragment>
+				<result></result>
+			</match>
+			<match startPos="375" endPos="383">
+				<fragment>называть</fragment>
+				<result></result>
+			</match>
+			<match startPos="375" endPos="394">
+				<fragment>называть защищаемым</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="375" endPos="403">
+				<fragment>называть защищаемым ресурсом</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="384" endPos="383">
+				<fragment></fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="384" endPos="394">
+				<fragment>защищаемым</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="384" endPos="403">
+				<fragment>защищаемым ресурсом</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="395" endPos="394">
+				<fragment></fragment>
+				<result></result>
+			</match>
+			<match startPos="395" endPos="403">
+				<fragment>ресурсом</fragment>
+				<result></result>
+			</match>
+			<match startPos="405" endPos="404">
+				<fragment></fragment>
+				<result></result>
+			</match>
+			<match startPos="405" endPos="415">
+				<fragment>Инструкция</fragment>
+				<result></result>
+			</match>
+			<match startPos="405" endPos="419">
+				<fragment>Инструкция или</fragment>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="405" endPos="428">
+				<fragment>Инструкция или оператор</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="416" endPos="415">
+				<fragment></fragment>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="416" endPos="419">
+				<fragment>или</fragment>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="416" endPos="428">
+				<fragment>или оператор</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="420" endPos="419">
+				<fragment></fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="420" endPos="428">
+				<fragment>оператор</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="431" endPos="430">
+				<fragment></fragment>
+				<result></result>
+			</match>
+			<match startPos="431" endPos="441">
+				<fragment>наименьшая</fragment>
+				<result></result>
+			</match>
+			<match startPos="431" endPos="452">
+				<fragment>наименьшая автономная</fragment>
+				<result></result>
+			</match>
+			<match startPos="431" endPos="458">
+				<fragment>наименьшая автономная часть</fragment>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="431" endPos="464">
+				<fragment>наименьшая автономная часть языка</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="442" endPos="441">
+				<fragment></fragment>
+				<result></result>
+			</match>
+			<match startPos="442" endPos="452">
+				<fragment>автономная</fragment>
+				<result></result>
+			</match>
+			<match startPos="442" endPos="458">
+				<fragment>автономная часть</fragment>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="442" endPos="464">
+				<fragment>автономная часть языка</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="442" endPos="481">
+				<fragment>автономная часть языка программирования</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="453" endPos="452">
+				<fragment></fragment>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="453" endPos="458">
+				<fragment>часть</fragment>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="453" endPos="464">
+				<fragment>часть языка</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="453" endPos="481">
+				<fragment>часть языка программирования</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="459" endPos="458">
+				<fragment></fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="459" endPos="464">
+				<fragment>языка</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="459" endPos="481">
+				<fragment>языка программирования</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="465" endPos="464">
+				<fragment></fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="465" endPos="481">
+				<fragment>программирования</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="483" endPos="482">
+				<fragment></fragment>
+				<result></result>
+			</match>
+			<match startPos="483" endPos="490">
+				<fragment>команда</fragment>
+				<result></result>
+			</match>
+			<match startPos="492" endPos="491">
+				<fragment></fragment>
+				<result></result>
+			</match>
+			<match startPos="492" endPos="501">
+				<fragment>Программа</fragment>
+				<result></result>
+			</match>
+			<match startPos="492" endPos="508">
+				<fragment>Программа обычно</fragment>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="492" endPos="521">
+				<fragment>Программа обычно представляет</fragment>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="492" endPos="527">
+				<fragment>Программа обычно представляет собой</fragment>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="502" endPos="501">
+				<fragment></fragment>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="502" endPos="508">
+				<fragment>обычно</fragment>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="502" endPos="521">
+				<fragment>обычно представляет</fragment>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="502" endPos="527">
+				<fragment>обычно представляет собой</fragment>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="502" endPos="546">
+				<fragment>обычно представляет собой последовательность</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="509" endPos="508">
+				<fragment></fragment>
+				<result></result>
+			</match>
+			<match startPos="509" endPos="521">
+				<fragment>представляет</fragment>
+				<result></result>
+			</match>
+			<match startPos="509" endPos="527">
+				<fragment>представляет собой</fragment>
+				<result></result>
+			</match>
+			<match startPos="509" endPos="546">
+				<fragment>представляет собой последовательность</fragment>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="509" endPos="557">
+				<fragment>представляет собой последовательность инструкций</fragment>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="522" endPos="521">
+				<fragment></fragment>
+				<result></result>
+			</match>
+			<match startPos="522" endPos="527">
+				<fragment>собой</fragment>
+				<result></result>
+			</match>
+			<match startPos="522" endPos="546">
+				<fragment>собой последовательность</fragment>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="522" endPos="557">
+				<fragment>собой последовательность инструкций</fragment>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="528" endPos="527">
+				<fragment></fragment>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="528" endPos="546">
+				<fragment>последовательность</fragment>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="528" endPos="557">
+				<fragment>последовательность инструкций</fragment>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="547" endPos="546">
+				<fragment></fragment>
+				<result></result>
+			</match>
+			<match startPos="547" endPos="557">
+				<fragment>инструкций</fragment>
+				<result></result>
+			</match>
+			<match startPos="559" endPos="558">
+				<fragment></fragment>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="559" endPos="571">
+				<fragment>Псевдографом</fragment>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="559" endPos="574">
+				<fragment>Псевдографом мы</fragment>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="559" endPos="583">
+				<fragment>Псевдографом мы называем</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="559" endPos="588">
+				<fragment>Псевдографом мы называем граф</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="572" endPos="571">
+				<fragment></fragment>
+				<result></result>
+			</match>
+			<match startPos="572" endPos="574">
+				<fragment>мы</fragment>
+				<result></result>
+			</match>
+			<match startPos="572" endPos="583">
+				<fragment>мы называем</fragment>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="572" endPos="588">
+				<fragment>мы называем граф</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="572" endPos="590">
+				<fragment>мы называем граф с</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="575" endPos="574">
+				<fragment></fragment>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="575" endPos="583">
+				<fragment>называем</fragment>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="575" endPos="588">
+				<fragment>называем граф</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="575" endPos="590">
+				<fragment>называем граф с</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="575" endPos="598">
+				<fragment>называем граф с петлями</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="584" endPos="583">
+				<fragment></fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="584" endPos="588">
+				<fragment>граф</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="584" endPos="590">
+				<fragment>граф с</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="584" endPos="598">
+				<fragment>граф с петлями</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="589" endPos="588">
+				<fragment></fragment>
+				<result></result>
+			</match>
+			<match startPos="589" endPos="590">
+				<fragment>с</fragment>
+				<result></result>
+			</match>
+			<match startPos="589" endPos="598">
+				<fragment>с петлями</fragment>
+				<result></result>
+			</match>
+			<match startPos="591" endPos="590">
+				<fragment></fragment>
+				<result></result>
+			</match>
+			<match startPos="591" endPos="598">
+				<fragment>петлями</fragment>
+				<result></result>
+			</match>
+			<match startPos="600" endPos="599">
+				<fragment></fragment>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="600" endPos="603">
+				<fragment>Под</fragment>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="600" endPos="614">
+				<fragment>Под контекстом</fragment>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="600" endPos="617">
+				<fragment>Под контекстом мы</fragment>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="600" endPos="626">
+				<fragment>Под контекстом мы понимаем</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="604" endPos="603">
+				<fragment></fragment>
+				<result></result>
+			</match>
+			<match startPos="604" endPos="614">
+				<fragment>контекстом</fragment>
+				<result></result>
+			</match>
+			<match startPos="604" endPos="617">
+				<fragment>контекстом мы</fragment>
+				<result></result>
+			</match>
+			<match startPos="604" endPos="626">
+				<fragment>контекстом мы понимаем</fragment>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="604" endPos="634">
+				<fragment>контекстом мы понимаем цепочку</fragment>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="615" endPos="614">
+				<fragment></fragment>
+				<result></result>
+			</match>
+			<match startPos="615" endPos="617">
+				<fragment>мы</fragment>
+				<result></result>
+			</match>
+			<match startPos="615" endPos="626">
+				<fragment>мы понимаем</fragment>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="615" endPos="634">
+				<fragment>мы понимаем цепочку</fragment>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="615" endPos="639">
+				<fragment>мы понимаем цепочку слов</fragment>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="618" endPos="617">
+				<fragment></fragment>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="618" endPos="626">
+				<fragment>понимаем</fragment>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="618" endPos="634">
+				<fragment>понимаем цепочку</fragment>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="618" endPos="639">
+				<fragment>понимаем цепочку слов</fragment>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="627" endPos="626">
+				<fragment></fragment>
+				<result></result>
+			</match>
+			<match startPos="627" endPos="634">
+				<fragment>цепочку</fragment>
+				<result></result>
+			</match>
+			<match startPos="627" endPos="639">
+				<fragment>цепочку слов</fragment>
+				<result></result>
+			</match>
+			<match startPos="635" endPos="634">
+				<fragment></fragment>
+				<result></result>
+			</match>
+			<match startPos="635" endPos="639">
+				<fragment>слов</fragment>
+				<result></result>
+			</match>
+			<match startPos="641" endPos="640">
+				<fragment></fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="641" endPos="652">
+				<fragment>находящихся</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="641" endPos="655">
+				<fragment>находящихся от</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="641" endPos="665">
+				<fragment>находящихся от ключевого</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="641" endPos="671">
+				<fragment>находящихся от ключевого слова</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="653" endPos="652">
+				<fragment></fragment>
+				<result></result>
+			</match>
+			<match startPos="653" endPos="655">
+				<fragment>от</fragment>
+				<result></result>
+			</match>
+			<match startPos="653" endPos="665">
+				<fragment>от ключевого</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="653" endPos="671">
+				<fragment>от ключевого слова</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="653" endPos="674">
+				<fragment>от ключевого слова на</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="656" endPos="655">
+				<fragment></fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="656" endPos="665">
+				<fragment>ключевого</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="656" endPos="671">
+				<fragment>ключевого слова</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="656" endPos="674">
+				<fragment>ключевого слова на</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="656" endPos="683">
+				<fragment>ключевого слова на заданном</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="666" endPos="665">
+				<fragment></fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="666" endPos="671">
+				<fragment>слова</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="666" endPos="674">
+				<fragment>слова на</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="666" endPos="683">
+				<fragment>слова на заданном</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="666" endPos="694">
+				<fragment>слова на заданном расстоянии</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="672" endPos="671">
+				<fragment></fragment>
+				<result></result>
+			</match>
+			<match startPos="672" endPos="674">
+				<fragment>на</fragment>
+				<result></result>
+			</match>
+			<match startPos="672" endPos="683">
+				<fragment>на заданном</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="672" endPos="694">
+				<fragment>на заданном расстоянии</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="675" endPos="674">
+				<fragment></fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="675" endPos="683">
+				<fragment>заданном</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="675" endPos="694">
+				<fragment>заданном расстоянии</fragment>
+				<result></result>
+				<result></result>
+				<result></result>
+				<result></result>
+			</match>
+			<match startPos="684" endPos="683">
+				<fragment></fragment>
+				<result></result>
+			</match>
+			<match startPos="684" endPos="694">
+				<fragment>расстоянии</fragment>
+				<result></result>
+			</match>
+			<match startPos="696" endPos="695">
+				<fragment></fragment>
+				<result></result>
+			</match>
+			<match startPos="696" endPos="699">
+				<fragment>нии</fragment>
+				<result></result>
+			</match>
+		</goal>
+	</text>
+</texts>

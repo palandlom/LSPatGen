@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<text>
+    <goals>
+        <goal name="BranchABPlanSpecificationAObjectiveSpecificationA">
+            <match startPos="3246" endPos="3306">
+                <fragment>
+                    <text>модели были внедрены в систему автоматического распознавания</text>
+                </fragment>
+                <extFragment>
+                    <position endPos="3379" startPos="2987" text-file="D:\Working\_Eclipse\ontExt.int\resources\text.txt"/>
+                    <text>Были применены глубокие нейронные сети с временными задержками (Time Delay Neural Network - TDNN), сверточные нейронные сети, рекуррентные сверточные нейронные сети, модели с длинной кратковременной памятью (Long Short-Term Memory - LSTM), двунаправленные LSTM.   Разработанные модели были внедрены в систему автоматического распознавания слитной русской речи со сверхбольшим (более 150 тыс. </text>
+                </extFragment>
+                <result>МОДЕЛИ БЫЛИ РАСПОЗНАВАНИЯ</result>
+            </match>
+        </goal>
+        <goal name="BranchBAObjectiveSpecificationAPlanSpecificationA">
+            <match startPos="3246" endPos="3306">
+                <fragment>
+                    <text>модели были внедрены в систему автоматического распознавания</text>
+                </fragment>
+                <extFragment>
+                    <position endPos="3379" startPos="2987" text-file="D:\Working\_Eclipse\ontExt.int\resources\text.txt"/>
+                    <text>Были применены глубокие нейронные сети с временными задержками (Time Delay Neural Network - TDNN), сверточные нейронные сети, рекуррентные сверточные нейронные сети, модели с длинной кратковременной памятью (Long Short-Term Memory - LSTM), двунаправленные LSTM.   Разработанные модели были внедрены в систему автоматического распознавания слитной русской речи со сверхбольшим (более 150 тыс. </text>
+                </extFragment>
+                <result>МОДЕЛИ БЫЛИ РАСПОЗНАВАНИЯ</result>
+            </match>
+        </goal>
+        <goal name="BranchABPlanSpecificationBActionSpecificationB"/>
+        <goal name="BranchBAActionSpecificationBPlanSpecificationB"/>
+    </goals>
+</text>

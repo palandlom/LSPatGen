@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<texts>
+	<text>
+		<goal name="Invspec">
+			<match startPos="55178" endPos="55214">
+				<fragment>Новизна исследования также состоит в</fragment>
+				<result>СОСТОИТ</result>
+				<result>СОСТОИТ</result>
+				<result>СОСТОИТ</result>
+			</match>
+			<match startPos="300151" endPos="300191">
+				<fragment>результатов исследования также состоит в</fragment>
+				<result>СОСТОИТ</result>
+				<result>СОСТОИТ</result>
+				<result>СОСТОИТ</result>
+			</match>
+		</goal>
+	</text>
+</texts>

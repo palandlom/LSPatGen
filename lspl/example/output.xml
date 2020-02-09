@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<texts>
+	<text>
+		<goal name="One">
+			<match startPos="0" endPos="19">
+				<fragment>Глоссарий - словарь</fragment>
+				<result>ГЛОССАРИЙ - СЛОВАРЬ</result>
+				<result>ГЛОССАРИЙ - СЛОВАРЬ</result>
+			</match>
+			<match startPos="0" endPos="51">
+				<fragment>Глоссарий - словарь узкоспециализированных терминов</fragment>
+				<result>ГЛОССАРИЙ - СЛОВАРЬ УЗКОСПЕЦИАЛИЗИРОВАННЫХ ТЕРМИНОВ</result>
+				<result>ГЛОССАРИЙ - СЛОВАРЬ УЗКОСПЕЦИАЛИЗИРОВАННЫХ ТЕРМИНОВ</result>
+			</match>
+			<match startPos="419" endPos="457">
+				<fragment>оператор - наименьшая автономная часть</fragment>
+				<result>ОПЕРАТОР - МАЛЕЙШАЯ АВТОНОМНАЯ ЧАСТЬ</result>
+			</match>
+		</goal>
+		<goal name="Two">
+			<match startPos="163" endPos="218">
+				<fragment>Под графемной конструкцией понимается графическая форма</fragment>
+				<result>ГРАФЕМНАЯ КОНСТРУКЦИЯ - ГРАФИЧЕСКАЯ ФОРМА</result>
+			</match>
+		</goal>
+		<goal name="Three">
+			<match startPos="0" endPos="51">
+				<fragment>Глоссарий - словарь узкоспециализированных терминов</fragment>
+				<result>ГЛОССАРИЙ - СЛОВАРЬ УЗКОСПЕЦИАЛИЗИРОВАННЫХ ТЕРМИНОВ</result>
+				<result>ГЛОССАРИЙ - СЛОВАРЬ УЗКОСПЕЦИАЛИЗИРОВАННЫХ ТЕРМИНОВ</result>
+			</match>
+			<match startPos="419" endPos="463">
+				<fragment>оператор - наименьшая автономная часть языка</fragment>
+				<result>ОПЕРАТОР - МАЛЕЙШАЯ АВТОНОМНАЯ ЧАСТЬ ЯЗЫКА</result>
+			</match>
+			<match startPos="419" endPos="480">
+				<fragment>оператор - наименьшая автономная часть языка программирования</fragment>
+				<result>ОПЕРАТОР - МАЛЕЙШАЯ АВТОНОМНАЯ ЧАСТЬ ЯЗЫКА ПРОГРАММИРОВАНИЯ</result>
+			</match>
+		</goal>
+		<goal name="Four">
+			<match startPos="558" endPos="597">
+				<fragment>Псевдографом мы называем граф с петлями</fragment>
+				<result>ПСЕВДОГРАФ - ГРАФ С ПЕТЛЯМИ</result>
+				<result>ПСЕВДОГРАФ - ГРАФ С ПЕТЛЯМИ</result>
+				<result>ПСЕВДОГРАФ - ГРАФА С ПЕТЛЯМИ</result>
+			</match>
+		</goal>
+		<goal name="Five">
+			<match startPos="599" endPos="633">
+				<fragment>Под контекстом мы понимаем цепочку</fragment>
+				<result>КОНТЕКСТ - ЦЕПОЧКА</result>
+			</match>
+			<match startPos="599" endPos="638">
+				<fragment>Под контекстом мы понимаем цепочку слов</fragment>
+				<result>КОНТЕКСТ - ЦЕПОЧКА СЛОВ</result>
+			</match>
+			<match startPos="599" endPos="651">
+				<fragment>Под контекстом мы понимаем цепочку слов, находящихся</fragment>
+				<result>КОНТЕКСТ - ЦЕПОЧКА СЛОВ , НАХОДЯЩИХСЯ</result>
+			</match>
+			<match startPos="599" endPos="654">
+				<fragment>Под контекстом мы понимаем цепочку слов, находящихся от</fragment>
+				<result>КОНТЕКСТ - ЦЕПОЧКА СЛОВ , НАХОДЯЩИХСЯ ОТ</result>
+			</match>
+			<match startPos="599" endPos="664">
+				<fragment>Под контекстом мы понимаем цепочку слов, находящихся от ключевого</fragment>
+				<result>КОНТЕКСТ - ЦЕПОЧКА СЛОВ , НАХОДЯЩИХСЯ ОТ КЛЮЧЕВОГО</result>
+			</match>
+			<match startPos="599" endPos="670">
+				<fragment>Под контекстом мы понимаем цепочку слов, находящихся от ключевого слова</fragment>
+				<result>КОНТЕКСТ - ЦЕПОЧКА СЛОВ , НАХОДЯЩИХСЯ ОТ КЛЮЧЕВОГО СЛОВА</result>
+			</match>
+			<match startPos="599" endPos="673">
+				<fragment>Под контекстом мы понимаем цепочку слов, находящихся от ключевого слова на</fragment>
+				<result>КОНТЕКСТ - ЦЕПОЧКА СЛОВ , НАХОДЯЩИХСЯ ОТ КЛЮЧЕВОГО СЛОВА НА</result>
+			</match>
+			<match startPos="599" endPos="682">
+				<fragment>Под контекстом мы понимаем цепочку слов, находящихся от ключевого слова на заданном</fragment>
+				<result>КОНТЕКСТ - ЦЕПОЧКА СЛОВ , НАХОДЯЩИХСЯ ОТ КЛЮЧЕВОГО СЛОВА НА ЗАДАННОМ</result>
+			</match>
+			<match startPos="599" endPos="693">
+				<fragment>Под контекстом мы понимаем цепочку слов, находящихся от ключевого слова на заданном расстоянии</fragment>
+				<result>КОНТЕКСТ - ЦЕПОЧКА СЛОВ , НАХОДЯЩИХСЯ ОТ КЛЮЧЕВОГО СЛОВА НА ЗАДАННОМ РАССТОЯНИИ</result>
+			</match>
+		</goal>
+	</text>
+</texts>
